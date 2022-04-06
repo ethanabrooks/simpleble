@@ -14,12 +14,12 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../../simpleble/'))
+sys.path.insert(0, os.path.abspath('../../dollar_lambda/'))
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'simpleble'
+project = 'dollar_lambda'
 copyright = '2018, Lyudmil Vladimirov'
 author = 'Lyudmil Vladimirov'
 
@@ -104,7 +104,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'simplebledoc'
+htmlhelp_basename = 'dollar_lambdadoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -131,7 +131,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'simpleble.tex', 'simpleble Documentation',
+    (master_doc, 'dollar_lambda.tex', 'dollar_lambda Documentation',
      'Lyudmil Vladimirov', 'manual'),
 ]
 
@@ -141,7 +141,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'simpleble', 'simpleble Documentation',
+    (master_doc, 'dollar_lambda', 'dollar_lambda Documentation',
      [author], 1)
 ]
 
@@ -152,8 +152,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'simpleble', 'simpleble Documentation',
-     author, 'simpleble', 'One line description of project.',
+    (master_doc, 'dollar_lambda', 'dollar_lambda Documentation',
+     author, 'dollar_lambda', 'One line description of project.',
      'Miscellaneous'),
 ]
 

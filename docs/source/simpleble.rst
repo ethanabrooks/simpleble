@@ -3,7 +3,7 @@ Documentation
 
 The ``SimpleBleClient`` class
 *****************************
-.. autoclass:: simpleble.SimpleBleClient
+.. autoclass:: dollar_lambda.SimpleBleClient
     :members:
     :undoc-members:
     :show-inheritance:
@@ -11,7 +11,7 @@ The ``SimpleBleClient`` class
 
 The ``SimpleBleDevice`` class
 *****************************
-.. autoclass:: simpleble.SimpleBleDevice
+.. autoclass:: dollar_lambda.SimpleBleDevice
     :members:
     :undoc-members:
     :show-inheritance:
@@ -19,14 +19,14 @@ The ``SimpleBleDevice`` class
 
 The ``SimpleBleScanDelegate`` class
 ***********************************
-.. autoclass:: simpleble.SimpleBleScanDelegate
+.. autoclass:: dollar_lambda.SimpleBleScanDelegate
     :members:
     :undoc-members:
     :show-inheritance:
 
 The ``SimpleBleNotificationDelegate`` class
 *******************************************
-.. autoclass:: simpleble.SimpleBleNotificationDelegate
+.. autoclass:: dollar_lambda.SimpleBleNotificationDelegate
     :members:
     :undoc-members:
     :show-inheritance:

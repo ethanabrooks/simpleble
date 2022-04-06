@@ -1,7 +1,7 @@
-simpleble
+dollar_lambda
 =========
 
 .. toctree::
    :maxdepth: 4
 
-   simpleble
+   dollar_lambda
