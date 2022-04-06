@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(
-    0, Path(Path(__file__).parents[2], "dollar_lambda").resolve().as_posix()
+    0, Path(Path(__file__).parents[2]).resolve().as_posix()
 )
 
 
