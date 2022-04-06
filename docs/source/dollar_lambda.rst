@@ -5,7 +5,8 @@ API
    :toctree: generated
 
    dollar_lambda.dollar_lambda
-   dollar_lambda.args
+   dollar_lambda.errors
+   dollar_lambda.data_structures
 
 
 The ``SimpleBleClient`` class
