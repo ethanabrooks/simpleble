@@ -1,10 +1,11 @@
-Documentation
+API
 =================
 
 .. autosummary::
    :toctree: generated
 
    dollar_lambda.dollar_lambda
+   dollar_lambda.args
 
 
 The ``SimpleBleClient`` class
